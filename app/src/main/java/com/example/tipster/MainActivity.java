@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity
     private RadioGroup rdoGroupTips;
     private Button btnCalculate;
     private Button btnReset;
+    String text;
 
     private TextView txtTipAmount;
     private TextView txtTotalToPay;
